@@ -1,4 +1,4 @@
-# Historical Documentary Video Workflow
+# Documentary Video 60 sec up to 5 min
 
 Create a documentary that explains **the history of a subject and how it was built**, using a photorealistic presenter introduction followed by animated watercolor scenes.
 
